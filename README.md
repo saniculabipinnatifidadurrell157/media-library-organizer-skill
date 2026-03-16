@@ -23,16 +23,24 @@ Scan & Analyze → Clean Junk → Identify Duplicates → Merge Scattered Episod
 
 ## Installation
 
-### As a Claude Code Skill
+### Quick Install (Recommended)
+
+```bash
+npx skills add Innei/media-library-organizer-skill
+```
+
+This automatically installs the skill into your Claude Code environment.
+
+### Manual Install
 
 Copy the skill into your Claude Code skills directory:
 
 ```bash
 # Global (all projects)
-cp -r media-library-organizer ~/.claude/skills/
+git clone https://github.com/Innei/media-library-organizer-skill.git ~/.claude/skills/media-library-organizer
 
 # Project-specific
-cp -r media-library-organizer .claude/skills/
+git clone https://github.com/Innei/media-library-organizer-skill.git .claude/skills/media-library-organizer
 ```
 
 Then invoke it in Claude Code by telling Claude to organize your media library, or use the slash command:
